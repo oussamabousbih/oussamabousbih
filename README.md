@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bousbih Oussama</h1>
-<h3 align="center">A passionate Full-Stack and Devops Engineer</h3>
+<h3 align="center">A passionate Full-Stack and DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussamabousbih&label=Profile%20views&color=0e75b6&style=flat" alt="oussamabousbih" /> </p>
 
